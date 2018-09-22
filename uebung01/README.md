@@ -1,0 +1,1 @@
+Open the project folder in eclipse. Enjoy!
